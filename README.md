@@ -19,3 +19,4 @@ Create Features for Super Cashier's Customer Journey service based on these foll
 
 
 ### C. Flowchart
+<img src="img/Super-Cashier-1.png" width="700"/>
