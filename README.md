@@ -6,7 +6,7 @@
 
 
 ### B. Requirements / Objectives
-Create Features for Super Cashier's Customer Journey service with the following details:
+Create Features for Super Cashier's Customer Journey service based on these following details:
 <ul>
 <li>Create a Transaction ID</li><br>
 <li>Inputting shopping items ( Item Name, Number of Items, Price per Item)</li><br>
